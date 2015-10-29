@@ -1,0 +1,11 @@
+git clone --config="http.proxy=http://aris1763:teriyapirom@192.168.2.1:8080" https://github.com/aris1763-cmis/aris1763-cmis-wb.git
+
+git add filename
+git commit -m "Commit message"
+git push
+
+ls <directory name>: list contents in a directory
+cd: Go home
+cd <directory name>
+cat <file name>: view contents of a file
+gedit <file name> &
