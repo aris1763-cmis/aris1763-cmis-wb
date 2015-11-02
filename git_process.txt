@@ -1,0 +1,10 @@
+1. open terminal and clone your repository by typing in git clone --config="http.proxy=http://uname:pword@192.168.2.1:8080" http://url-to-your-repo
+2. in terminal type in cd "folder name" to get into your folder
+3. type in gedit <file name> & to open or create a file
+4. edit and save the file
+5. go back to terminal and type git add <file name>
+6. then type git commit -m "Commit Comment"
+7. type git push, and wait to enter in your username and password
+8. the file should now be in your repository in github.com
+
+
