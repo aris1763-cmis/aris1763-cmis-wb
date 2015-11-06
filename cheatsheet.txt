@@ -9,3 +9,14 @@ cd: Go home
 cd <directory name>
 cat <file name>: view contents of a file
 gedit <file name> &
+
+Move file to Production Server
+	1. sftp aris1763@cmis-hsteacher		(start terminal in repository folder)
+	2. password: teriyapirom
+	3. cd public_html
+	4. put <filename>: upload file from your computer to public_html)
+	5. rm <filename>: remove file from public_html)
+	6. put/rm * : put all files into public_html
+pwd: show folder that you're in
+!ls: shows the files that are in your computer folder
+
