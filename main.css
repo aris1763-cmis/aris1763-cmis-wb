@@ -1,0 +1,22 @@
+h1{
+	font-size: 40px;
+	font-weight: bold;
+	font-family: "Courier New";
+	background-color: #9966FF;
+}
+
+h2{
+	font-size: 30px;
+	font-weight: bold;
+	font-family: 'Courier New";
+	background-color: #9999FF;
+}
+
+p{
+	font-size: 20px;
+	font-weight: none;
+	font-family: "Comic Sans MA";
+	background-color: #99CCFF;
+}
+	
+
