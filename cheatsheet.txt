@@ -20,3 +20,6 @@ Move file to Production Server
 pwd: show folder that you're in
 !ls: shows the files that are in your computer folder
 
+mkdir <foldnername> : make a new folder
+rmdir <foldername> : remove folder, only works if it is empty
+
