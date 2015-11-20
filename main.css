@@ -40,6 +40,10 @@ footer{
 	border-width: 1px;
 } 
 
+nav{
+	font-family: TSCu_Comic;
+}
+
 /*
 *REQUIREMENTS:
 *Create a new file called "main.css"
