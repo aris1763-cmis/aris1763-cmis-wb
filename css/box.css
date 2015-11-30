@@ -1,0 +1,29 @@
+body{
+	background-color: #E0FFFF;
+}
+ 
+h1{
+	font-size: 40px;
+	font-weight: bold;
+	font-family: "Ani";
+	border-style: groove;
+	text-align: center;
+	color: #800080;
+	background-color: #D8BFD8;
+	border-width: 10px;
+}
+
+nav{
+	font-family: TSCu_Comic;
+}
+
+h2{
+	font-size: 25px;
+	font-weight: bold;
+	font-family: "kalimati";
+	border-style: solid;
+	color: #F08080;
+	background-color: #D8BFD8;
+	border-width: 2px;
+	border-color: gray;
+	padding: 2px;
