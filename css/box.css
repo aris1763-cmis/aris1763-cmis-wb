@@ -8,8 +8,8 @@ h1{
 	font-family: "Ani";
 	border-style: groove;
 	text-align: center;
-	color: #800080;
-	background-color: #D8BFD8;
+	color: #4169e1;
+	background-color: #da70d6;
 	border-width: 10px;
 }
 
@@ -20,10 +20,60 @@ nav{
 h2{
 	font-size: 25px;
 	font-weight: bold;
-	font-family: "kalimati";
-	border-style: solid;
-	color: #F08080;
-	background-color: #D8BFD8;
+	font-family: "purisa";
+	border-style: dotted;
+	color: #4169e1;
+	background-color: #db7093;
 	border-width: 2px;
-	border-color: gray;
+	border-color: #4169e1;
 	padding: 2px;
+}
+
+table{
+	font-family: "UnPilgi";
+	color: #1e90ff;
+	text-align: center;
+	border-style: dashed;
+	border-width: 1px;
+	border-color: #20b2aa;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 5px;
+	width: 50%;
+	height: 75px;
+}
+
+th{
+	font-size: 22px;
+	background-color: #483d8b;
+	padding: 3px;
+	border-style: dotted;
+	border-width: 1px;
+}
+
+td{
+	font-size: 19px;
+	background-color: #e0ffff;
+	font-weight: bold;
+	border-style: dotted;
+	border-width: 1px;
+}
+
+ol > li{
+	font-family: "UnPilgi";
+	font-size: 20px; 
+}
+
+ul li{
+	font-family: "Courier 10 Pitch";
+	font-size: 18px;
+	color: #778899; 
+}
+
+a{
+	color: #663399;
+}
+
+h3 ~ li{
+	color: #663399;
+}
