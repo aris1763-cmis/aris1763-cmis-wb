@@ -1,0 +1,54 @@
+header{
+	background-color: red;
+	padding-left: 20px;
+	padding-bottom: 30px;
+}
+h1{
+	font-weight: bold;
+	border-style: solid;
+	border-color: yellow;
+	border-width: 2px;
+}
+article{
+	color: white;
+	padding: 40px;
+	font-weight: bold;
+	padding-bottom: 50px;
+}
+nav{
+	border-style: solid;
+	border-color: black;
+	border-width: 2px;
+	padding-left: 0px;
+	margin-left: 150px;
+}
+h2{
+	font-weight:bold;
+}
+main{
+	background-color: gray;
+	padding-left: 150px;
+}
+table{
+	text-align: center;
+	border-style: solid;
+	border-color: gray;
+	border-width: 1px;
+}
+th{
+	background-color: yellow;
+	border-bottom: green;
+	border-style: solid;
+	border-width:2px;
+}
+tbody > th{
+	background-color: yellow;
+	color: red;
+}
+footer{
+	background-color: blue;
+	padding: 5px;
+	border-style: dashed;
+	border-width: 10px;
+}
+	
