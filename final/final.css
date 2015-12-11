@@ -1,0 +1,46 @@
+@import url(https://fonts.googleapis.com/css?family=Tillana:400,700);
+@import url(https://fonts.googleapis.com/css?family=Rock+Salt);
+@import url(https://fonts.googleapis.com/css?family=Give+You+Glory);
+nav{
+	float: left;
+	font-family: Tlwg Typist;
+	font-weight: bold;
+}
+body{
+	background-color: #C1F0F6;
+}
+h1{
+	text-align: center;
+	font-size: 50px;
+	color: #104E8B;
+	font-family: 'Tillana', cursive;
+	border: groove;
+	border-color: white;
+	border-width: 5px;
+}
+h2{
+	font-size: 30px;
+	margin-left: 150px;
+	font-family: 'Rock Salt', cursive;
+	color: #3A66A7;
+	border: dotted;
+	border-width: 1px;
+	border-color: white;
+	text-align: center;
+}
+p{
+	font-family: 'Give You Glory', cursive;
+	color: #2C5197;
+	margin-left: 150px;
+	margin-right: 530px;
+	font-weight: bold;
+	background-color: #B0E2FF;
+	border: dotted;
+	border-color: silver;
+	border-width: 1px;
+}
+img{
+	float: right;
+	margin-left: 10px;
+	margin-right: 10px;
+}
