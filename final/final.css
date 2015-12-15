@@ -5,6 +5,10 @@ nav{
 	float: left;
 	font-family: Tlwg Typist;
 	font-weight: bold;
+	border: dotted;
+	border-width: 1px;
+	padding-left: 0.02px;
+	padding-right: 20px;
 }
 body{
 	background-color: #C1F0F6;
@@ -19,8 +23,9 @@ h1{
 	border-width: 5px;
 }
 h2{
+	background-color: #ADD8E6;
 	font-size: 30px;
-	margin-left: 150px;
+	margin-left: 172px;
 	font-family: 'Rock Salt', cursive;
 	color: #3A66A7;
 	border: dotted;
@@ -31,7 +36,7 @@ h2{
 p{
 	font-family: 'Give You Glory', cursive;
 	color: #2C5197;
-	margin-left: 150px;
+	margin-left: 172px;
 	margin-right: 530px;
 	font-weight: bold;
 	background-color: #B0E2FF;
@@ -42,5 +47,88 @@ p{
 img{
 	float: right;
 	margin-left: 10px;
+	margin-right: 10px;
+}
+footer{
+	font-family: Tlwg Typist;
+	font-size: 12px;
+}
+img.christmas{
+	float: left;
+	margin-left: 200px;
+	margin-right: 10px;
+}
+h3{
+	font-size: 25px;
+	margin-left: 200px;
+	font-family: 'Rock Salt', cursive;
+	color: #3A66A7;
+}
+p.snowglobe1{
+	font-family: 'Give You Glory', cursive;
+	color: #2C5197;
+	margin-left: 550px;
+	margin-right: 50px;
+	font-weight: bold;
+	background-color: #B0E2FF;
+	border: dotted;
+	border-color: silver;
+	border-width: 1px;
+}
+ul.snowglobe1-1{
+	margin-left: 550px;
+	margin-right: 50px;
+	list-style-type: circle;
+	font-family: 'Give You Glory', cursive;
+	font-weight: bold;
+	color: #6183A6;
+	background-color: #C6E2FF;
+	border: dashed;
+	border-color: #7AA9DD;
+	border-width: 1px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+h3.summer{
+	clear:left;
+	font-size: 25px;
+	margin-left: 200px;
+	font-family: 'Rock Salt', cursive;
+	color: #3A66A7;
+}
+img.summer1{
+	width: 300px;
+	height: 180px;
+	float: left;
+	margin-left: 200px;
+	margin-right: 10px;
+}
+img.newyork{
+	width: 300px;
+	height: 300px;
+	float: left;
+	margin-left: 200px;
+	margin-right: 10px;
+}
+img.london{
+	width: 300px;
+	height: 380px;
+	float: left;
+	margin-left: 200px;
+	margin-right: 10px;
+}
+h3.london-1{
+	clear:left;
+	font-size: 25px;
+	margin-left: 200px;
+	font-family: 'Rock Salt', cursive;
+	color: #3A66A7;
+	padding-top: 25px;
+}
+img.paris{
+	float: left;
+	width: 300px;
+	height: 220px;
+	margin-left: 200px;
 	margin-right: 10px;
 }
